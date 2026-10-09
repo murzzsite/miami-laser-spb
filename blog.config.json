@@ -1,0 +1,39 @@
+{
+  "siteName": "MIAMI",
+  "siteUrl": "https://murzzsite.github.io/miami-laser-spb",
+  "lang": "ru",
+  "repo": "murzzsite/miami-laser-spb",
+  "ref": "2RRCCM8ZPL",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Полезные статьи от MIAMI",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Студия лазерной эпиляции MIAMI",
+    "jobTitle": "",
+    "type": "Organization"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку — разберём вашу ситуацию и подскажем следующий шаг.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#contact",
+  "disclaimer": "Материал носит информационный характер и не заменяет консультацию врача. Перед процедурой уточните противопоказания у специалиста.",
+  "telegramNotify": true,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "0af75f0803d263071442a1cb6cd72a83",
+  "previewSecret": "f69e7d99e25e39b7",
+  "theme": {
+    "accent": "var(--clr-accent)",
+    "accent-soft": "var(--clr-accent-soft)",
+    "bg": "var(--clr-bg)",
+    "surface": "var(--clr-surface)",
+    "ink": "var(--clr-ink)",
+    "text": "var(--clr-text)",
+    "soft": "var(--clr-text-soft)",
+    "line": "var(--clr-line)"
+  }
+}

@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /miami-laser-spb/blog/preview/
+
+Sitemap: https://murzzsite.github.io/miami-laser-spb/sitemap.xml
