@@ -1,16 +1,14 @@
 {
   "site": "https://murzzsite.github.io/miami-laser-spb",
   "updated": "2026-10-13",
-  "awaiting": [
+  "awaiting": [],
+  "scheduled": [],
+  "published": [
     {
       "slug": "skolko-stoit-lazernaya-epilyaciya-spb",
-      "path": "articles/skolko-stoit-lazernaya-epilyaciya-spb.md",
       "title": "Сколько стоит лазерная эпиляция в Санкт-Петербурге: цены на комплексы зон и как считать курс",
-      "description": "Сколько стоит лазерная эпиляция в Санкт-Петербурге: цены на первое посещение в MIAMI от 990 ₽, чем отличаются комплексы зон и во что обходится курс.",
-      "reading_time": "11 мин чтения",
-      "preview_url": "https://murzzsite.github.io/miami-laser-spb/blog/preview/850a00175835/skolko-stoit-lazernaya-epilyaciya-spb/"
+      "url": "https://murzzsite.github.io/miami-laser-spb/blog/skolko-stoit-lazernaya-epilyaciya-spb/",
+      "date": "2026-10-13"
     }
-  ],
-  "scheduled": [],
-  "published": []
+  ]
 }
